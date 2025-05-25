@@ -34,7 +34,7 @@ Password : 12345
 
 1. **Repository:**
    ```bash
-   https://github.com/Anujyadav1303/Employee-Management-System/tree/main 
+   https://github.com/anujyadavgu/Employee-Management-System 
 
 ## 📁 Project Structure .jar 
 "C:\Users\Anuj Yadav\Downloads\mysql-connector-java-8.0.28.jar"
